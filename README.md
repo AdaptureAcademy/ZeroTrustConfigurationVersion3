@@ -131,9 +131,9 @@ sudo nano authorized_keys
     ```
 ![img_25.png](assets/img_25.png)
 9. Then navigate to the client machine and access the server by putting the following command in the client machine:
-   ```
-   ssh -i /home/ubuntu/.ssh/aws_ssh ubuntu@ssh.devopstest.elasticsuite.com
-    ```
+```
+ssh -i /home/ubuntu/.ssh/aws_ssh ubuntu@ssh.devopstest.elasticsuite.com
+```
 ![img_26.png](assets/img_26.png)
 10. Copy the URL from the terminal and paste it into a browser and authenticate yourself as configured in the policy.
 ![img_27.png](assets/img_27.png)
