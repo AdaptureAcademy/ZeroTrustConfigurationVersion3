@@ -49,13 +49,13 @@
    ![img_7.png](assets/img_7.png)
 
 10. Fill the fields in the route tunnel section as follows:
-   - Fill the subdomain field with `ssh`.
-   - Fill the domain section with your domain name, like `devopstest.elasticsuite.com`.
-   - Navigate to the dropdown menu under the Type section.
-   - Put the type SSH with port 22 in the section like `localhost:22`.
-   - Save the tunnel.
+    - Fill the subdomain field with `ssh`.
+    - Fill the domain section with your domain name, like `devopstest.elasticsuite.com`.
+    - Navigate to the dropdown menu under the Type section.
+    - Put the type SSH with port 22 in the section like `localhost:22`.
+    - Save the tunnel.
 
-     ![img_8.png](assets/img_8.png)
+      ![img_8.png](assets/img_8.png)
 
 ---
 
